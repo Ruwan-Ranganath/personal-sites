@@ -341,6 +341,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
+- Ruwan Ranganath http://www.interlista.com.lk
 - Ryan Choi http://ryanjchoi.com
 - Ryan D'souza http://dsouzarc.github.io
 - Ryan Lin http://ryanlin.com
